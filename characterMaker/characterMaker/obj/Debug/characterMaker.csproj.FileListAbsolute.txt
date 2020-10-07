@@ -1,0 +1,7 @@
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\bin\Debug\characterMaker.exe.config
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\bin\Debug\characterMaker.exe
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\bin\Debug\characterMaker.pdb
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\obj\Debug\characterMaker.csprojAssemblyReference.cache
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\obj\Debug\characterMaker.csproj.CoreCompileInputs.cache
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\obj\Debug\characterMaker.exe
+D:\Bureau\Info\Script info\cours\characterMaker\characterMaker\obj\Debug\characterMaker.pdb

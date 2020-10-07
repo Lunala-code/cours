@@ -1,0 +1,7 @@
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\bin\Debug\Cours1.exe.config
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\bin\Debug\Cours1.exe
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\bin\Debug\Cours1.pdb
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\obj\Debug\Cours1.csprojAssemblyReference.cache
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\obj\Debug\Cours1.csproj.CoreCompileInputs.cache
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\obj\Debug\Cours1.exe
+D:\Bureau\Info\Script info\cours\Cours1\Cours1\obj\Debug\Cours1.pdb
