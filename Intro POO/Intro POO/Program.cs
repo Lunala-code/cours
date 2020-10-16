@@ -9,27 +9,28 @@ namespace Intro_POO {
         static void Main(string[] args) {
 
             Player player = new Player();
-            //PotionSoin potion1 = new PotionSoin();
-            //Potion potion = new Potion(10);
+
+            // On cré deux potion, une potion de force et une potion de sin
             Potion potion = new PotionSoin2(10);
             Potion p2 = new PotionForce2(10);
 
+            // Un invenatire, c'est une liste d'item, on peut donc y ajouter nos potion cas Potion hérite de Item
             List<Item> inventaire = new List<Item>();
 
             inventaire.Add(potion);
             inventaire.Add(p2);
 
-
+            // Affichage de la description des potions
             potion.getDescription();
             p2.getDescription();
-
-
-
+            
+            // Affichage des paramètres des joueurs avant avoir bu les potions
             player.present();
 
             player.drinkPotion(potion);
             player.drinkPotion(p2);
 
+            // Affichage des paramètres des joueurs après avoir bu les potions
             player.present();
 
         }

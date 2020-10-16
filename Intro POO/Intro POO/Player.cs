@@ -38,8 +38,12 @@ namespace Intro_POO {
 
         //Méthode (action) qui permet au joueur de boire une potion
         //La potion que doit boire le joueur est passé en paramètre
+        //public void drinkPotion(PotionSoin potion)
+
+        // Aveec notre architecture basé sur l'héritage, le joueur vas boire une Potion, puis, en fonction de la potion, les effets seront différents.
+        // Cependant, pour le joeur c'est totalement indépendant.
         public void drinkPotion(Potion potion) {
-            potion.applyEffect(this);   //les pv rendus par la potion en question sont en privé. On ne peux donc pas récupéré les pv rendus par cette potion
+            potion.applyEffect(this); 
             // On fais donc utilisé la méthode applyEffect en donnant une référence à notre objet/classe
 
             //this.pv = this.pv + potion.PvRendu;
