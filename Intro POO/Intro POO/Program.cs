@@ -11,8 +11,8 @@ namespace Intro_POO {
             Player player = new Player();
 
             // On cré deux potion, une potion de force et une potion de sin
-            Potion potion = new PotionSoin2(10);
-            Potion p2 = new PotionForce2(10);
+            Potion potion = new PotionSoin(10);
+            Potion p2 = new PotionForce(10);
 
             // Un invenatire, c'est une liste d'item, on peut donc y ajouter nos potion cas Potion hérite de Item
             List<Item> inventaire = new List<Item>();

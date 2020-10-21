@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace Intro_POO {
 
     //Potion qui rends de la vie
-    public class PotionSoin2 : Potion {
+    public class PotionSoin : Potion {
 
         // En créant la potion de soin, on cré aussi une potion
         // On vas donc créer une sorte d'instance privé de Potion.
         // Pour créer une potion, il faut lui donné (d'aprs le constructeur Potion) une variable de type int qui vas correspondre, pour une potion de soin,
         // au PV qui seront rendu. Pour cela on utilise le mot clé base() qui permet d'instancier une classe interne potion avec 
         //les paramètre de notre constructuer
-        public PotionSoin2(int pr) : base(pr) {
+        public PotionSoin(int pr) : base(pr) {
 
         }
 

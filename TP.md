@@ -3,7 +3,7 @@
 ## Objectif: créer deux monstres qui peuvent attaquer le joueur
 
 ### Composition de la classe monstre
-- Un monstre à des PV et de la force. Un monstre à 100 PV de base, la force dépends de chaque monstre
+- Un monstre à des PV et de la force. Un monstre à 100 PV de base, la force dépends de chaque monstre.
 - Un monstre à également une méthode qui lui permet d'attaquer un Player. Cependant, **chaque monstre attaque de manière différente**
 - Tous les monstres ont une description qui présente leur type (Orc/gobelin), leur PV et leur force.
 Il existe deux type de monstres:

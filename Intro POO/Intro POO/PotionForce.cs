@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Intro_POO {
     // Potion qui rends de la force
-    class PotionForce2 : Potion {
+    class PotionForce : Potion {
 
         // En créant la potion de force, on cré aussi une potion
         // On vas donc créer une sorte d'instance privé de Potion.
@@ -14,7 +14,7 @@ namespace Intro_POO {
         // à la force qui sera rendu. Pour cela on utilise le mot clé base() qui permet d'instancier une classe interne potion avec 
         //les paramètre de notre constructuer
 
-        public PotionForce2(int fr): base(fr) {
+        public PotionForce(int fr): base(fr) {
 
         }
 
